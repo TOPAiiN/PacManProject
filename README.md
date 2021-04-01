@@ -14,7 +14,7 @@ Educational purpose. Check the comments at *pacman.js* to see how code works.
 In the future I would like to be able to replicate the original game by adding fruits or objects that would be eaten by PacMan.
 
 ## Special Thanks
-Thanks to freeCodeCamp for their initiative, especially [John Milga] (https://github.com/john-smilga/javascript-basic-projects). I understood how to create random colors and apply them to a div element watching their [40 Javascript Projects for Begginners] (https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper)
+Thanks to freeCodeCamp for their initiative, especially [John Milga](https://github.com/john-smilga/javascript-basic-projects). I understood how to create random colors and apply them to a div element watching their [40 Javascript Projects for Begginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper)
 
 ## License
 Copyright (c) 2020 John Williams. Free usage for MITxPro Professional Certificate in Coding: Full Stack Development with MERN.
