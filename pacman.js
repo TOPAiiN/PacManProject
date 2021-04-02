@@ -49,15 +49,15 @@ function Run() {
   direction = checkPageBounds(direction, imgWidth, pos, pageWidth);
   img.src = pacArray[direction][focus];
   if (direction) {
-    pos -= 20;
+    pos -= 25;
     img.style.left = pos + 'px';
   } else {
-    pos += 20;
+    pos += 25;
     img.style.left = pos + 'px';
   }
   colorChanges();
 }
-setInterval(Run,350);
+setInterval(Run,200);
 
 
 // This function determines the direction of PacMan based on screen edge detection. 
