@@ -1,4 +1,4 @@
-# PacMan Exercise
+# PacMen Exercise
 ## Description
 The idea of the exercise was to be able to move the PacMan within the user screen, reversing direction when the image detects a screen edge. Furthermore, understanding how we can manipulate html elements with the DOM was an important part of the exercise.
 
