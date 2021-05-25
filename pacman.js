@@ -4,8 +4,8 @@ var pos = 0;
 let pageWidth = window.innerWidth;
 //This array contains all the PacMan movement images
 const pacArray = [
-  ['./PacMan1.png', './PacMan2.png'],
-  ['./PacMan3.png', './PacMan4.png'],
+  ['./images/PacMan1.png', './images/PacMan2.png'],
+  ['./images/PacMan3.png', './images/PacMan4.png'],
 ];
 // This array contains all the elements that can create hexcolors. For example: #0366d6
 const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
