@@ -5,7 +5,7 @@ The idea of the exercise was to be able to move the PacMan within the user scree
 As a personal challenge, I added a ChangeColors function in order to set a new color each time PacMan makes a move.
 
 ## Instalation
-Download all the files and open index.html to see how the animation works or go to the [project page](https://topaiin.github.io/PacManProject/).
+Download all the files and open index.html to see how the animation works or go to the [project page](https://topaiin.github.io/PacMen-Exercise/).
 
 ## Usage
 Educational purpose. Check the comments at *pacman.js* to see how code works.
